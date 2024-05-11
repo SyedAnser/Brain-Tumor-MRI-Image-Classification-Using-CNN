@@ -1,11 +1,11 @@
 
 _**The Dataset**_
 
-**Title** 
+**Title:** 
 Brain Tumor MRI Images 44 Classes
 
 
-**About **
+**About**
 
 A private collection of T1, contrast-enhanced T1, and T2 magnetic resonance images separated by brain tumor type. 
 Images without any type of marking or patient identification, interpreted by radiologists and provided for study purposes. 

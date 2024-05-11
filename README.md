@@ -35,6 +35,7 @@ Tuberculoma
 _Normal
 
 A look at the data:
+
 ![image](https://github.com/SyedAnser/Brain-Tumor-MRI-Image-Classification-Using-CNN/assets/113206580/342bf231-f72a-4729-904b-1deaaed1d429)
 
 
@@ -44,6 +45,7 @@ A look at the data:
 CNN implementation using Sequential Model
 
 **Model Design**
+
 ![image](https://github.com/SyedAnser/Brain-Tumor-MRI-Image-Classification-Using-CNN/assets/113206580/0771543c-cfe9-484d-b1ea-19fccd127c60)
 
 ![image](https://github.com/SyedAnser/Brain-Tumor-MRI-Image-Classification-Using-CNN/assets/113206580/09795845-26f5-4acc-aaa8-7fe6456ec867)
@@ -73,6 +75,7 @@ Tensorflow, Sklearn
 Cv2, Seaborn, Matplotlib
 
 **Results**
+
 ![image](https://github.com/SyedAnser/Brain-Tumor-MRI-Image-Classification-Using-CNN/assets/113206580/e5112c68-2099-4208-b3e6-efe2cbd2add2)
 
 

@@ -1,18 +1,18 @@
 
-The Dataset
+_**The Dataset**_
 
-Title 
+**Title** 
 Brain Tumor MRI Images 44 Classes
 
 
-About 
+**About **
 
 A private collection of T1, contrast-enhanced T1, and T2 magnetic resonance images separated by brain tumor type. 
 Images without any type of marking or patient identification, interpreted by radiologists and provided for study purposes. 
 The images are separated by astrocytoma, carcinoma, ependymoma, ganglioglioma, germinoma, glioblastoma, granuloma, medulloblastoma, meningioma, neurocytoma, oligodendroglioma, papilloma, schwannoma and tuberculoma.
 
 
-Specifics
+**Specifics**
 
 Size: 197MB
 Number of Images: 4479
@@ -38,12 +38,12 @@ A look at the data:
 ![image](https://github.com/SyedAnser/Brain-Tumor-MRI-Image-Classification-Using-CNN/assets/113206580/342bf231-f72a-4729-904b-1deaaed1d429)
 
 
-The Model
+**_The Model_**
 
-Model Type
+**Model Type**
 CNN implementation using Sequential Model
 
-Model Design
+**Model Design**
 ![image](https://github.com/SyedAnser/Brain-Tumor-MRI-Image-Classification-Using-CNN/assets/113206580/0771543c-cfe9-484d-b1ea-19fccd127c60)
 
 ![image](https://github.com/SyedAnser/Brain-Tumor-MRI-Image-Classification-Using-CNN/assets/113206580/09795845-26f5-4acc-aaa8-7fe6456ec867)
@@ -58,12 +58,12 @@ Learning Rate: 0.001
 Loss: Categorical Cross-Entropy
 Epochs: 15
 
-Code
+_**Code**_
 
-Link
+**Link**
 https://github.com/SyedAnser/Brain-Tumor-MRI-Image-Classification-Using-CNN.git
 
-Specifics
+**Specifics**
 IDE: VS Code
 Compiler: Jupyter Notebook
 Language: Python
@@ -72,7 +72,7 @@ Numpy, Pandas
 Tensorflow, Sklearn
 Cv2, Seaborn, Matplotlib
 
-Results
+**Results**
 ![image](https://github.com/SyedAnser/Brain-Tumor-MRI-Image-Classification-Using-CNN/assets/113206580/e5112c68-2099-4208-b3e6-efe2cbd2add2)
 
 

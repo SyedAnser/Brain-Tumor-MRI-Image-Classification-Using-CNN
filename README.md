@@ -72,9 +72,13 @@ _**Code**_
 
 
 **Specifics**
+
 IDE: VS Code
+
 Compiler: Jupyter Notebook
+
 Language: Python
+
 Libraries:
 Numpy, Pandas
 Tensorflow, Sklearn

@@ -39,9 +39,10 @@ A look at the data:
 ![image](https://github.com/SyedAnser/Brain-Tumor-MRI-Image-Classification-Using-CNN/assets/113206580/342bf231-f72a-4729-904b-1deaaed1d429)
 
 
+
 **_The Model_**
 
-**Model Type**
+**Model Type:**
 CNN implementation using Sequential Model
 
 **Model Design**
@@ -54,16 +55,21 @@ CNN implementation using Sequential Model
 
 
 Parameters:
+
 Number of Trainable Parameters: 3319663
+
 Optimization Method: Adamax
+
 Learning Rate: 0.001
+
 Loss: Categorical Cross-Entropy
+
 Epochs: 15
+
+
 
 _**Code**_
 
-**Link**
-https://github.com/SyedAnser/Brain-Tumor-MRI-Image-Classification-Using-CNN.git
 
 **Specifics**
 IDE: VS Code
@@ -73,6 +79,8 @@ Libraries:
 Numpy, Pandas
 Tensorflow, Sklearn
 Cv2, Seaborn, Matplotlib
+
+
 
 **Results**
 

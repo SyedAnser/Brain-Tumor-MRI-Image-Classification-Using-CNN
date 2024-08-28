@@ -1,5 +1,5 @@
 
-_**The Dataset**_
+##_**The Dataset**_
 
 **Title:** 
 Brain Tumor MRI Images 44 Classes
@@ -40,7 +40,7 @@ A look at the data:
 
 
 
-###**_The Model_**
+##**_The Model_**
 
 **Model Type:**
 CNN implementation using Sequential Model
@@ -68,7 +68,7 @@ Epochs: 15
 
 
 
-###_**Code**_
+##_**Code**_
 
 
 **Specifics**

@@ -7,31 +7,31 @@ Brain Tumor MRI Images 44 Classes
 
 **About**
 
-A private collection of T1, contrast-enhanced T1, and T2 magnetic resonance images separated by brain tumor type. 
+A collection of T1, contrast-enhanced T1, and T2 magnetic resonance images separated by brain tumor type. 
 Images without any type of marking or patient identification, interpreted by radiologists and provided for study purposes. 
 The images are separated by astrocytoma, carcinoma, ependymoma, ganglioglioma, germinoma, glioblastoma, granuloma, medulloblastoma, meningioma, neurocytoma, oligodendroglioma, papilloma, schwannoma and tuberculoma.
 
 
 **Specifics**
 
-Size: 197MB
-Number of Images: 4479
-Classes: 15
-Names of Classes:
-Astrocytoma
-Carcinoma
-Ependymoma
-Ganglioglioma
-Germinoma
-Glioblastoma
-Granuloma
-Medulloblastoma
-Meningioma
-Neurocytoma
-Oligodendroglioma
-Papilloma
-Schwannoma 
-Tuberculoma
+Size: 197MB<br> 
+Number of Images: 4479<br>
+Classes: 15<br>
+Names of Classes:<br>
+Astrocytoma,
+Carcinoma,
+Ependymoma,
+Ganglioglioma,
+Germinoma,
+Glioblastoma,
+Granuloma,
+Medulloblastoma,
+Meningioma,
+Neurocytoma,
+Oligodendroglioma,
+Papilloma,
+Schwannoma, 
+Tuberculoma,
 _Normal
 
 A look at the data:
